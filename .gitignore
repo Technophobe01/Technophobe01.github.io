@@ -1,0 +1,40 @@
+# Jekyll files
+_site/
+.sass-cache/
+.jekyll-metadata
+# Jekyll and site config files
+.jekyll-cache/
+jekyll-cache/
+
+# Log and temporary files
+*.log
+*.tmp
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Dependency folders (optional if you use these)
+vendor/
+.bundle/
+node_modules/
+
+# Gemfile and Bundler settings
+Gemfile.lock
+vendor/bundle
+
+# Temporary editor files
+*.sublime-project
+*.sublime-workspace
+.idea/
+.vscode/
+
+# Cache and environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# MacOS system files
+.DS_Store
+.Spotlight-V100
+.Trashes
